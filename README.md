@@ -2,12 +2,7 @@
 
 Workshop prático de introdução ao Git, usando pequenos exemplos em JavaScript como material para versionar. Você vai do `git init` até um Pull Request aprovado, com uma Actions acompanhando o seu progresso.
 
-## Pré-requisitos
 
-- Git 2.23 ou mais recente (`git --version`)
-- Node.js 22 LTS ou mais recente (`node -v`)
-- VS code ou Linha de Comando com suporte a terminal Bash (Git Bash ou Linux nativo)
-- Conta no GitHub com autenticação HTTPS (token) ou SSH configurada
 
 ## Como começar
 
