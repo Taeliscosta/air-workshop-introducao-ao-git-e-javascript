@@ -1,6 +1,5 @@
 # Exercícios
 
-Os exercícios usam dois repositórios:
 
 - **E1:** um repositório local descartável (`git-sandbox`), sem relação com este.
 - **E2 a E6:** o seu repositório criado a partir deste template, depois do `git clone`.
